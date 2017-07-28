@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gtm",
+  "name": "DM Mod",
+  "description": "Messing around and stuff.",
+  "version": "1.0",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["GmaN98"],
+  "credits": "My beautiful wife and two amazing daughters for putting up with my crap <3",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
