@@ -25,7 +25,7 @@ public class Main {
     //Below is where you will have to add each item in separate. 
     public static enum TutorialItems
     {
-    	OBSIDIANINGOT("obsidianingot", "itemObsidianingot");
+    	OBSIDIANINGOT("obsidianingot", "itemobsidianingot");
     	
     	private String unlocalizedName;
     	private String registryName;
