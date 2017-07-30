@@ -27,6 +27,7 @@ public class Main {
     {
     	OBSIDIANINGOT("obsidianingot", "itemobsidianingot");
     	
+    	
     	private String unlocalizedName;
     	private String registryName;
     	
