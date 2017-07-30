@@ -22,7 +22,8 @@ public class Main {
     public static final String CLIENT_PROXY_CLASS = "com.gman98.tutorial.proxy.ClientProxy";
     public static final String SERVER_PROXY_CLASS = "com.gman98.tutorial.proxy.ServerProxy";
     
-    //Below is where you will have to add each item in separate. 
+    //Below is where you will have to add each item in separate.
+    //Keep the item names in () all lowercase like "itemobsidianingot"
     public static enum TutorialItems
     {
     	OBSIDIANINGOT("obsidianingot", "itemobsidianingot");
